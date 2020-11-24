@@ -1,0 +1,69 @@
+/*
+ * Basic CSS starts
+ */
+
+.gsc-adBlock { display: none !important; }
+
+.mySlides {display:none}
+.w3-badge {cursor:pointer}
+.w3-badge {height:13px; width:13px; padding:0}
+
+* {box-sizing: border-box}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #919191;
+	font-family: Helvetica, sans-serif;
+	font-weight: 400;
+	color: #545454;
+	-webkit-font-smoothing: antialiased;
+}
+
+h2,h3,h4,h5,h6 {
+	font-family: Helvetica, sans-serif;
+	font-weight: 600;
+}
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-weight: 600;
+	color: #fff;
+	margin: auto;
+}
+
+p {
+	margin:0;
+	padding:0;
+	color: #787878;
+}
+
+.container-content {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0 auto;
+}
+
+/*
+ * Content
+ */
+
+.description {
+	padding-bottom: 20px;
+    text-align: left;
+}
+
+#spacetop-bot {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.content {
+    background-color:rgba(255, 255, 255, 1);
+    padding: 20px;
+	width: 75%;
+    margin-left: auto;
+	margin-right: auto;
+    border: 1px solid #ccc;
+}

@@ -1,0 +1,32 @@
+footer {
+	/* padding: 10px 0; */
+	background: #fff;
+	text-align: center;
+    border-top: 10px solid #919191;
+}
+footer.ffoot {margin-top: 0;}
+footer p {
+	font-size: 13px;
+	line-height: 25px;
+	color: #000;
+}
+footer p a {
+	font-size: 13px;
+	line-height: 24px;
+	text-transform: uppercase;
+	letter-spacing: 0.055em;
+	color: #000;
+}
+footer p a:hover { color: #a93c01; }
+
+footer .support {
+	/* border-top: 10px solid #919191; */
+}
+footer .support h2 {
+	padding: 0px;
+	color: #000;
+}
+
+footer .copy-right {
+	margin-top: 5px;
+}
